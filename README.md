@@ -8,7 +8,7 @@ Modelo que usei: https://www.figma.com/file/saXdAb9rjfQBJUJIxYqr30/Shoes-Store?n
 </div><br>
 
 <h2 align="center">Página de registro Concluído</h2> <br>
-Modelo com um main simples.
+<p align="center">Modelo com um main simples.</p>
 
 <div width="50%" align="center">
 <img width="50%" alt="Print-3" src="https://user-images.githubusercontent.com/95445253/163870491-17fc58e4-1a31-4f46-b8fd-cea2ab6d9d5c.png">
